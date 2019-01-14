@@ -4,6 +4,8 @@ Gitの練習
 
 変更
 
+リムーブ
+
 git config --global user.name "gota8027"
 
 git config --global user.email "go.takahashi0207@gmail.com"
