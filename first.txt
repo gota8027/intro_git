@@ -6,6 +6,8 @@ Gitの練習
 
 リムーブ
 
+gitdiff
+
 git config --global user.name "gota8027"
 
 git config --global user.email "go.takahashi0207@gmail.com"
